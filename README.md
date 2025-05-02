@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hanane 하난</h1>
+<div align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm0wMzgxMXozZm82M2NsZDBjNTRrM2k5em94ZmpqZjN4ZDFva3dpeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ekjmhJUGHJm7FC4Juo/giphy.gif" width="400" alt="Coding is fun gif"/>
+</div>
 <h3 align="center">Salam, I'm Hanane 하난 — where code meets creativity. Crafting elegant solutions with a touch of tenderness (true to my name). Full-stack developer | Design lover | Innovation chaser 💡 Let's build something meaningful together. 🌍🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hananben&label=Profile%20views&color=0e75b6&style=flat" alt="hananben" /> </p>
