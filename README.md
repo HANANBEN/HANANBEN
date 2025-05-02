@@ -24,8 +24,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hananben&show_icons=true&locale=en" alt="hananben" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hananben&" alt="hananben" /></p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hananben/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hananben/hananben/output/github-snake.svg" />
