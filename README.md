@@ -8,9 +8,9 @@ Salam, I'm Hanane 하난 — a QA Engineer with hands-on experience in test conc
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hananben&label=Profile%20views&color=0e75b6&style=flat" alt="hananben" /> </p>
 
-- 🔭 I’m currently working on **my End of Studies Project**
+- I’m currently **looking for a QA Engineer position**
 
-- 📫 How to reach me **benazizehanane@gmail.com**
+- How to reach me **benazizehanane@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
