@@ -3,7 +3,7 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm0wMzgxMXozZm82M2NsZDBjNTRrM2k5em94ZmpqZjN4ZDFva3dpeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ekjmhJUGHJm7FC4Juo/giphy.gif" width="400" alt="Coding is fun gif"/>
 </div>
 <h3 align="center">
-Salam, I'm Hanane 하난 — a QA Engineer with hands-on experience in test conception, execution, automation, and reporting. Passionate about ensuring software quality and building reliable, elegant solutions. Full-stack developer | Design lover | Innovation chaser 💡 Let's build something meaningful together. 🌍🚀
+Salam, I'm Hanane 하난 — a QA Engineer with hands-on experience in test conception, execution, automation, and reporting.
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hananben&label=Profile%20views&color=0e75b6&style=flat" alt="hananben" /> </p>
